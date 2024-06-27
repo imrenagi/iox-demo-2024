@@ -1,0 +1,1 @@
+gcloud run deploy mamang-asisten --env-vars-file=vars.yml  --allow-unauthenticated --source . --region us-central1
